@@ -1,6 +1,6 @@
 <div align="center">
-  <img alt="My Tumblr" src="https://img.shields.io/badge/My_Tumblr-2ca0cb?style=flat-square&logo=tumblr&labelColor=%231c1c1c&link=https%3A%2F%2Fgruwuzin.tumblr.com"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Cybertron-E165A7?style=flat-square&link=https%3A%2F%2Fwit.pwr.edu.pl%2Faktualnosci%2Fgra-o-cybertron">
+  <a href="https://gruwuzin.tumblr.com"><img alt="My Tumblr" src="https://img.shields.io/badge/My_Tumblr-2ca0cb?style=flat-square&logo=tumblr&labelColor=%231c1c1c&link=https%3A%2F%2Fgruwuzin.tumblr.com"/></a>
+  <a href="https://wit.pwr.edu.pl/aktualnosci/gra-o-cybertron><img alt="Static Badge"><img src="https://img.shields.io/badge/Cybertron-E165A7?style=flat-square&link=https%3A%2F%2Fwit.pwr.edu.pl%2Faktualnosci%2Fgra-o-cybertron"></a>
 </div>
 
 <div align="center">
