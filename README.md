@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img alt="ASCII art of Blahaj plushie each line has colors (looping) in order: pink, light pink, white, cyan, white, light pink, pink" src="https://github.com/ModerNews/ModerNews/assets/61905404/c1cc4372-d6b5-4336-8877-f25ee4bf57d5">
+  <img alt="ASCII art of Blahaj plushie each line has colors (looping) in order: pink, light pink, white, cyan, white, light pink, pink" style="width: 100%; height: auto;" src="https://github.com/ModerNews/ModerNews/assets/61905404/48007408-cbd4-4c61-8df1-4c9dfa4efe92">
 </div>
 
 > This shonk was rendered with [GeopJr/BLAHAJ](https://github.com/GeopJr/BLAHAJ)
