@@ -20,12 +20,9 @@
 ### Interesting projects I've worked on:
 - 👨‍💻 Cybertron - I was mentoring and developing tasks for participants from Poland, Czechia and Slovakia in cybersecurity ctf tournament [Cybertron](https://wit.pwr.edu.pl/aktualnosci/gra-o-cybertron)
 - 🤖 Multipurpose discord bot **Mash** written in python - currently down due to API changes, but I still use knowledged I gained working on this project. I also develop smaller bot sfor my own purposes, like [her](https://github.com/ModerNews/HanyasakaBot)
-<<<<<<< HEAD
+- 🏆 Backend for website for hosting & managing contests
 - 🎥 Rewritten and maintained stream tv-like overlay. (Pending for code publishment)
 - 🔨 [Rice](https://github.com/ModerNews/i-use-arch-btw) for my current Arch Linux install
-=======
-- 🔨 [Rice](https://github.com/ModerNews/i-use-arch-btw) for my current Arch Linux system
->>>>>>> parent of be9331d (Update README.md)
 - 📜 Pythonic wrapper for [myanimelist](https://myanimelist.net) Rest API [here](https://github.com/ModerNews/MAL-API-Client-Upgraded)
 - 🧪 Multiple smaller Selenium projects (for advanced webscrapping) like [this one](https://github.com/ModerNews/malsuggest-user-bot).
 
